@@ -1,7 +1,7 @@
 # 24012011023_MAD_Practical-8
 ## AIM: Create a Simple iOS application.
 
-- *Name:* Sampreeti Fondekart
+- *Name:* Sampreeti Fondekar
 - *Enr. No.:* 24012011023
 - *Class:* CE I-1
 
